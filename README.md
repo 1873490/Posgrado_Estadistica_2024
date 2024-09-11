@@ -8,7 +8,7 @@ Material del curso de Diseño Experimental y Análisis de Datos
 - Semana 3: Proxima semana actualizar
 - Semana 4: Clase teorica de estadisitca parametrica
 - Semana 5: Pruebas de T dependientes e independientes 
-- Semana 6: Clase de Analsis de Vairianza ANOVA 
+- Semana 6: Clase de Analsis de Varianza ANOVA 
 
 
 
