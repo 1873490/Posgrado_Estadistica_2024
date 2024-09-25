@@ -10,6 +10,7 @@ Material del curso de Diseño Experimental y Análisis de Datos
 - Semana 5: Pruebas de T dependientes e independientes 
 - Semana 6: Clase de Analsis de Varianza ANOVA 
 - Semana 7: Clase de Correlacion   
+- Semana 8: Examen Parcial 
 
 
 
