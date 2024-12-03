@@ -1,3 +1,7 @@
+# Sandra Berenice Valdes Platas 
+# 1873490
+# 05/09/24
+
 Data.1 <- read.csv("CUADRO 1.csv", header = TRUE)
 
 H.media <- subset(Data.1, Data.1$Altura <= mean(Data.1$Altura))
@@ -47,3 +51,4 @@ mean(DBH.media$Diametro)
 
 sd(DBH.16$Diametro)
 mean(DBH.16$Diametro)
+
